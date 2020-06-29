@@ -9,3 +9,6 @@ ln -sf ~/environment/.bash_profile ~/.bash_profile
 
 # tmux
 ln -sf ~/environment/.tmux.conf ~/.tmux.conf
+
+# repo
+git clone https://github.com/b4b4r07/enhancd ~/environment/.repository/enhancd
