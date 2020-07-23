@@ -3,6 +3,10 @@ if [ -f ~/.bashrc ]; then
    source ~/.bashrc
 fi
 
+if [ -f ~/.bash_alias ]; then
+  source ~/.bash_alias
+fi
+
 # tmux alias
 alias wn='tmux new-window'
 alias wx='tmux kill-window'

@@ -1,0 +1,8 @@
+#postgre
+alias psql='docker run --rm -it --net=host postgres psql'
+
+# mysql
+alias mysql='docker run --rm -it --net=host mysql mysql'
+
+# AWS
+alias aws='docker run --rm -it -v ~/.aws:/root/.aws -v $(pwd):/aws amazon/aws-cli'
