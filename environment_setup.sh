@@ -12,5 +12,3 @@ ln -sf ~/environment/.bash_alias ~/.bash_alias
 # tmux
 ln -sf ~/environment/.tmux.conf ~/.tmux.conf
 
-# repo
-# git clone https://github.com/b4b4r07/enhancd ~/environment/.repository/enhancd
