@@ -2,6 +2,7 @@
 
 # vim
 ln -sf ~/environment/.vimrc ~/.vimrc
+ln -sf ~/environment/.vim ~/.vim
 
 # bash
 ln -sf ~/environment/.bashrc ~/.bashrc
