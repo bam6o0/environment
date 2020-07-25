@@ -1,3 +1,6 @@
 [submodule ".vim/pack/fatih/opt/vim-go"]
 	path = .vim/pack/fatih/opt/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule ".vim/pack/davidhalter/opt/jedi-vim"]
+	path = .vim/pack/davidhalter/opt/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
