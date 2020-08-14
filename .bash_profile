@@ -65,4 +65,4 @@ function parse_git_dirty {
 
 export PS1="\u@\h:\W\`parse_git_branch\` "
 export PATH="/usr/local/opt/python@3.8/bin:$PATH"
-source ~/environment/.repository/enhancd/init.sh
+# source ~/environment/.repository/enhancd/init.sh

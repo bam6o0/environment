@@ -6,3 +6,9 @@ alias mysql='docker run --rm -it --net=host mysql mysql'
 
 # AWS
 alias aws='docker run --rm -it -v ~/.aws:/root/.aws -v $(pwd):/aws amazon/aws-cli'
+
+# Python3
+alias python='docker run --rm -it --net=host -v $(pwd):/usr/src -w /usr/src python python'
+
+# Hugo
+alias hugo='docker run --rm -it --net=host -v $(pwd):/src klakegg/hugo'
