@@ -26,6 +26,11 @@ $ git submodule foreach git pull
 $ git commit -a -m 'update all vim plugins.'
 ```
 
+### VM for develop
+```
+$ vagrant up
+```
+
 ## License
 
 [MIT License](LICENSE)
