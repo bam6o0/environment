@@ -27,6 +27,7 @@ $ git commit -a -m 'update all vim plugins.'
 ```
 
 ## VM for develop
+Create a `.env` file referring to the `.env-example`.
 ```
 $ vagrant up
 ```
