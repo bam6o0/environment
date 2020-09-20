@@ -30,6 +30,7 @@ $ git commit -a -m 'update all vim plugins.'
 Create a `.env` file referring to the `.env-example`.
 ```
 $ vagrant up
+$ vagrant ssh-config >> ~/.ssh/config
 ```
 
 ## License
