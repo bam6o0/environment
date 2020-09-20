@@ -26,7 +26,7 @@ $ git submodule foreach git pull
 $ git commit -a -m 'update all vim plugins.'
 ```
 
-### VM for develop
+## VM for develop
 ```
 $ vagrant up
 ```
